@@ -1,6 +1,3 @@
-# This example sets up an endpoint using the Flask framework.
-# Watch this video to get started: https://youtu.be/7Ul1vfmsDck.
-
 import os
 import stripe
 from dotenv import load_dotenv
